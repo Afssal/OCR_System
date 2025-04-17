@@ -5,4 +5,4 @@ pydantic==2.11.3
 pytesseract==0.3.13
 SQLAlchemy==2.0.32
 uvicorn
-python-mutlipart
+python-multipart
